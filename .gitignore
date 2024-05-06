@@ -167,3 +167,6 @@ cython_debug/
 
 .DS_Store
 static/
+
+# Project-Specific Ignores
+api_keys.py
